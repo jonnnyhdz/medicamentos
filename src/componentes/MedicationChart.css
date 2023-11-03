@@ -1,0 +1,58 @@
+.container {
+    font-family: Arial, sans-serif;
+    width: 80%;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+
+.header {
+    font-size: 32px;
+    font-weight: bold;
+    color: #00A6A4;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.tableContainer {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.th {
+    padding: 10px;
+    border-bottom: 1px solid #E0E0E0;
+    text-align: left;
+    font-weight: bold;
+    color: #777777;
+}
+
+.td {
+    padding: 10px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.column {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.timeIcon {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.rotateIcon {
+    font-size: 24px;
+    color: #00A6A4;
+    margin-right: 10px;
+    vertical-align: middle;
+}
